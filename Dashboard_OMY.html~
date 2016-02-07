@@ -1,0 +1,52 @@
+<!DOCTYPE>
+	<html>
+		<head>
+			<title> Portaillle </title>
+			<link rel="stylesheet" href="Style0.css" />
+			<meta charset="utf-8">
+		</head>
+		<body>
+			<header>
+				<p> What's the F**CK </p>
+			</header>
+			
+			<h2 class="Bouf"> Bonjour ...... </h2>
+			<section>
+				<h5> Planning de la Session </h5>
+				<p> Manger du pain </p>
+			</section>
+			<h4> Planning de la Semaine </h2>
+			<h3> Plannig de la Journée </h3>
+			
+			<div id="conteneur"> <!--Debut du Flexbox-->
+				<nav class="left">
+					<ul>
+						<li> Cours </li>
+						<li> Application </li>
+						<li> Forum </li>
+						<li> Défi </li>
+						<li> News & Evenements</li>
+					</ul>
+				</nav>
+				<nav class="middle">
+					<ul>
+						<li> Mes fichiers</li>
+						<li>Mes corrections</li>
+						<li> Moi </li>
+					</ul>
+				</nav>
+				<nav class="right">
+					<ul>
+						<li> Profil </li>
+						<li> Amis </li>
+						<li> Fuck </li>
+						<li> Groupes </li>
+						<li> Grade </li>
+						<li> Mon espace </li>
+					</ul>
+				</nav>
+			</div> <!--Fin Flexbox-->
+			
+			
+			</body>
+	</html>
